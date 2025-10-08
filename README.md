@@ -1,10 +1,10 @@
 # Neural Network & Deep Learning
 
- A study path towards neural network and deep learning. A branch of the machine learning pathway.
+ A study path towards neural networks and deep learning. A branch of the machine learning pathway.
  
 In this study path, we'll look into
 
-- What is Neural Network
+- What is a Neural Network
   - Supervised learning
   - Unsupervised learning
 - Binary Classification
@@ -17,8 +17,8 @@ In this study path, we'll look into
 - Vectorization 
 - Broadcasting 
 
-We'll employ the use of two Python libraries `numpy` and `pandas` for data
-wrangling and analysis. Then walk our way towards using `Pytorch` to build, traing
+We'll employ the use of two Python libraries, `numpy` and `pandas`, for data
+wrangling and analysis. Then walk our way towards using `Pytorch` to build, train
 and evaluate deep learning models such as:
 
 - Convolutional Neural Network (CNNs)
