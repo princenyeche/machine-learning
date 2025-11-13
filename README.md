@@ -1,10 +1,10 @@
 # Neural Network & Deep Learning
 
- A study path towards neural networks and deep learning. A branch of the machine learning pathway.
+ A study path towards neural network and deep learning. A branch of the machine learning pathway.
  
 In this study path, we'll look into
 
-- What is a Neural Network
+- What is Neural Network
   - Supervised learning
   - Unsupervised learning
 - Binary Classification
@@ -14,10 +14,13 @@ In this study path, we'll look into
   - Logistic Regression cost function 
 - Gradient descent algorithm
 - Backpropagation
+- Forward propagation
 - Vectorization 
+- Cost function
 - Broadcasting 
+- Update parameters
 
-We'll employ the use of two Python libraries, `numpy` and `pandas`, for data
+We'll employ the use of two Python libraries `numpy` and `pandas` for data
 wrangling and analysis. Then walk our way towards using `Pytorch` to build, train
 and evaluate deep learning models such as:
 
